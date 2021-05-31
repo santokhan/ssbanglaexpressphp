@@ -4,9 +4,14 @@
         <div class="col bg-danger rounded">
             <div>
                 <nav class="navbar navbar-expand-lg navbar-dark">
-                    <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" onclick="NavBtn()">
                         <span class="navbar-toggler-icon"></span>
                     </button>
+                    <script>
+                    function NavBtn() {
+                        document.getElementById("my-nav").classList.toggle("d-block");
+                    }
+                    </script>
                     <div id="my-nav" class="collapse navbar-collapse">
                         <ul class="navbar-nav">
                             <li class="nav-item active">
