@@ -5,15 +5,15 @@
         <div class="col m-0 p-0">
             <div class="text-white overflow-hidden h-lg-40 position-relative m-0 p-0">
                 <div class="mySlides">
-                    <img class="card-img-top" src="./image/slide-4.jpg" alt="card-image" max-width="100%">
+                    <img class="card-img-top" src="component/image/slide-4.jpg" alt="card-image" max-width="100%">
                 </div>
 
                 <div class="mySlides">
-                    <img class="card-img-top" src="./image/slide-1.png" alt="card-image" max-width="100%">
+                    <img class="card-img-top" src="component/image/slide-1.png" alt="card-image" max-width="100%">
                 </div>
 
                 <div class="mySlides">
-                    <img class="card-img-top" src="image/slide-6.jpg" alt="card-image" max-width="100%">
+                    <img class="card-img-top" src="component/image/slide-6.jpg" alt="card-image" max-width="100%">
                 </div>
                 <i class="fas fa-angle-left" onclick="plusSlides(-1)"></i>
                 <i class="fas fa-angle-right" onclick="plusSlides(1)"></i>
