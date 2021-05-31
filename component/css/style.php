@@ -8,6 +8,22 @@ body {
     scroll-behavior: smooth;
 }
 
+html::-webkit-scrollbar {
+    background: transparent;
+    background-color: transparent;
+    width: 8px;
+}
+
+html::-webkit-scrollbar-track {
+    background: transparent;
+    background-color: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: #dc3545;
+    border-radius: 6px;
+}
+
 .corner-clip {
     clip-path: polygon(0 0, 98% 0%, 100% 40%, 100% 100%, 2% 100%, 0% 65%);
 }
@@ -315,6 +331,7 @@ body {
     }
 
 }
+
 
 @media(max-width:476px) {
     .h-lg-40 {
