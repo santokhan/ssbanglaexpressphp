@@ -71,7 +71,7 @@ window.fbAsyncInit = function() {
     <div class="row mx-lg-5">
         <div class="col-lg-3 d-flex justify-content-between">
             <div class="logo">
-                <img src="image/ss-bangla-express-logo2.png" alt="" width="100%">
+                <img src="component/image/ss-bangla-express-logo2.png" alt="" width="100%">
             </div>
         </div>
         <div class="col-lg-3 pb-1 ml-auto">
