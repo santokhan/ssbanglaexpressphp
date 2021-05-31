@@ -1,7 +1,7 @@
 <!-- Top -->
 <div class="container-fluid px-lg-5 text-light">
     <div class="row mx-lg-5">
-        <div class="col d-lg-flex bg-danger justify-content-between rounded overflow-hidden px-lg-4 py-lg-3">
+        <div class="col d-lg-flex bg-danger justify-content-between align-items-center rounded overflow-hidden px-lg-4 py-lg-2">
             <span class="crop-corner-top"></span>
             <div class="pl-lg-1">
                 <nav class="navbar navbar-expand-md text-white">
@@ -11,22 +11,22 @@
                     </ul>
                 </nav>
             </div>
-            <nav class="navbar navbar-expand navbar-dark px-0 pt-lg-2 pb-sm-1">
+            <nav class="navbar navbar-expand navbar-dark px-3 pt-lg-2 pb-sm-1">
                 <ul class="navbar-nav ml-lg-auto m-auto">
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="https://www.facebook.com/Banglaexpress1/"><i class="fab fa-facebook px-1"></i></a>
+                        <a class="nav-link px-1" href="https://www.facebook.com/Banglaexpress1/"><i class="fab fa-facebook px-1"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="#"><i class="fab fa-instagram px-1"></i></a>
+                        <a class="nav-link px-1" href="#"><i class="fab fa-instagram px-1"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="#"><i class="fab fa-twitter px-1"></i></a>
+                        <a class="nav-link px-1" href="#"><i class="fab fa-twitter px-1"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="#"><i class="fab fa-youtube px-1"></i></a>
+                        <a class="nav-link px-1" href="#"><i class="fab fa-youtube px-1"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="#"><i class="fab fa-linkedin px-1"></i></a>
+                        <a class="nav-link pl-1" href="#"><i class="fab fa-linkedin px-1"></i></a>
                     </li>
                 </ul>
             </nav>
