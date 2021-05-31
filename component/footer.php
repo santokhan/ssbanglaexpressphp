@@ -17,9 +17,10 @@
                     $items = ["International Courier Export", "Imports (Courier & Cargo)", "Customs Clearance", "24x7 hour Online Internet Tracking", "Instant Customer Query Response", "Pick up and delivery services"];
                     for ($key = 0; $key < 6; $key++) {
                         echo '<li class="pb-2"><a class="text-light text-decoration-none" href="#">
-                                <i class="fas fa-dot-circle pr-1"></i>' . $items[$key] .
+                                    <i class="fas fa-dot-circle pr-1"></i>' . $items[$key] .
                             '</a></li>';
-                    }; ?>
+                    };
+                    ?>
                 </ul>
             </div>
         </div>
@@ -82,9 +83,8 @@
 
 
 <!-- JavaScript source -->
-<script src="./js/bootstrap.bundle.js.php"></script>
-<!-- DPDHL API -->
-<script src="./js/dpdhl.js.php"></script>
+<?php include "js/bootstrap.bundle.js.php"; ?>
+<?php include "js/dpdhl.js.php"; ?>
 </body>
 
 </html>
