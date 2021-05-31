@@ -2,7 +2,7 @@
 
 <?php include "./component/slider.php"; ?>
 
-<?php include "./component/card.php"; ?>
+<?php include "./component/contact.php"; ?>
 
 <?php include "component/parallex.php"; ?>
 
