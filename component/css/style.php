@@ -126,12 +126,6 @@ body {
     bottom: -22px;
 }
 
-/* .back-img {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-} */
-
 .top-navbar {
     display: block;
     z-index: 200;
