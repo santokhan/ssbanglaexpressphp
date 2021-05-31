@@ -22,7 +22,7 @@
             <div class="row bg-danger py-3 px-lg-5 text-white">
                 <div class="col-lg-4 py-3 px-lg-5">
                     <div class="pl-lg-5">
-                        <h5 class="text-center">Any query-> +8801711327764</h5>
+                        <h5 class="text-center m-0">Any query-> +8801711327764</h5>
                     </div>
                 </div>
                 <div class="col-lg-7 offset-lg-1 align-self-center">
