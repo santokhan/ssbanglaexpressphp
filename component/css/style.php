@@ -221,7 +221,7 @@ body {
 
 /* Map Parallex */
 .parallax-2 {
-    background-image: url(image/world-map-146505.svg);
+    background-image: url(component/image/world-map-146505.svg);
     background-attachment: fixed;
     background-size: cover;
     background-position: 50% 0%;
