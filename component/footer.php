@@ -4,7 +4,7 @@
     <div class="row mx-lg-5 py-lg-5">
         <div class="col-lg-3 py-4">
             <h5 class="pb-4 text-center text-lg-left">ABOUT US</h5>
-            <img src="/component/image/ss-bangla-express-logo3.png" alt="ss-bangla-express-logo" width="180px">
+            <img src="component/image/ss-bangla-express-logo3.png" alt="ss-bangla-express-logo" width="180px">
             <p class="text-justify pr-lg-4">To be market leader and to be customers first choice for economy express courier service
                 industry in Bangladesh and to offer the possible shortest time with most affordable price.</p>
         </div>
