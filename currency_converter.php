@@ -2,7 +2,7 @@
 
 <?php include "./component/slider.php"; ?>
 
-<?php include "component/card.php"; ?>
+<?php include "component/currency_converter.php"; ?>
 
 <?php include "component/parallex.php"; ?>
 
