@@ -56,9 +56,9 @@
 <!-- Footer -->
 <div class="container-fluid bg-danger px-lg-5 text-white">
     <div class="row mx-lg-5 d-flex align-items-center">
-        <div class="col-lg-5 ml-lg-auto align-self-center order-lg-2 pt-3">
+        <div class="col-lg-5 ml-lg-auto align-items-center order-lg-2 pt-3">
             <div class="bg-danger">
-                <ul class="d-flex flex-lg-row flex-column  list-unstyled">
+                <ul class="d-flex flex-lg-row flex-column list-unstyled" id="bottomBar">
                     <li class="nav-item">
                         <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/about/about.html">About Us</a>
                     </li>
