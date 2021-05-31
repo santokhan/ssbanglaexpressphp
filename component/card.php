@@ -4,7 +4,7 @@
         <div class="col-md-3">
             <div class="card overflow-hidden mb-3 animate-up">
                 <div class="position-relative card-img-clip">
-                    <img class="card-img-top" src="http://smhsoft.info/sites/square/images/features/feature1.jpg" alt="card-image">
+                    <img class="card-img-top" src="component/image/card-1.jpg" alt="card-image">
                     <span class="note"></span>
                 </div>
                 <div class="card-body">
@@ -19,7 +19,7 @@
         <div class="col-md-3">
             <div class="card overflow-hidden mb-3 animate-up">
                 <div class="position-relative card-img-clip">
-                    <img class="card-img-top" src="http://smhsoft.info/sites/square/images/features/feature2.jpg" alt="card-image">
+                    <img class="card-img-top" src="component/image/card-2.jpg" alt="card-image">
                     <span class="note"></span>
                 </div>
                 <div class="card-body">
@@ -33,7 +33,7 @@
         <div class="col-md-3">
             <div class="card overflow-hidden mb-3 animate-up">
                 <div class="position-relative card-img-clip">
-                    <img class="card-img-top" src="http://smhsoft.info/sites/square/images/features/feature3.jpg" alt="card-image">
+                    <img class="card-img-top" src="component/image/card-3.jpg" alt="card-image">
                     <span class="note"></span>
                 </div>
                 <div class="card-body">
@@ -48,7 +48,7 @@
         <div class="col-md-3">
             <div class="card overflow-hidden mb-3 animate-up">
                 <div class="position-relative card-img-clip">
-                    <img class="card-img-top" src="http://smhsoft.info/sites/square/images/features/feature4.jpg" alt="card-image">
+                    <img class="card-img-top" src="component/image/card-4.jpg" alt="card-image">
                     <span class="note"></span>
                 </div>
                 <div class="card-body">
