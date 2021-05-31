@@ -14,3 +14,11 @@
 </head>
 
 <body>
+
+    <?php include "component/facebook_chat_plugin.php"; ?>
+
+    <?php include "component/topbar.php"; ?>
+
+    <?php include "component/logo.php"; ?>
+
+    <?php include "component/navbar.php"; ?>
