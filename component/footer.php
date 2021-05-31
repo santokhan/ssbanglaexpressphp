@@ -12,7 +12,6 @@
             <div>
                 <h5 class="pb-4 text-center text-lg-left">SERVICES</h5>
                 <ul class="list-unstyled">
-
                     <?php
                     $items = ["International Courier Export", "Imports (Courier & Cargo)", "Customs Clearance", "24x7 hour Online Internet Tracking", "Instant Customer Query Response", "Pick up and delivery services"];
                     for ($key = 0; $key < 6; $key++) {
@@ -20,7 +19,6 @@
                                 <a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>' . $items[$key] . '</a>
                                </li>';
                     }; ?>
-
                     <!-- <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>International Courier Export</a></li>
                     <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>Imports (Courier & Cargo)</a></li>
                     <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>Customs Clearance</a></li>
@@ -62,24 +60,27 @@
             <div class="bg-danger">
                 <ul class="d-flex flex-lg-row flex-column  list-unstyled">
                     <li class="nav-item">
-                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/about/about.html" tabindex="-1" aria-disabled="true">About Us</a>
+                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/about/about.html">About Us</a>
                     </li>
+                    |
                     <li class="nav-item">
-                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/services/services.html" tabindex="-1" aria-disabled="true">Services</a>
+                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/services/services.html">Services</a>
                     </li>
+                    |
                     <li class="nav-item">
-                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/about/about.html" tabindex="-1" aria-disabled="true">Terms &
-                            Condition</a>
+                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/about/about.html">Terms & Condition</a>
                     </li>
+                    |
                     <li class="nav-item">
-                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/contact/contact.html" tabindex="-1" aria-disabled="true">Contact
-                            Us</a>
+                        <a class="nav-link text-light pr-2 display-lg-inline text-center text-lg-left m-lg-0" href="page/contact/contact.html">Contact Us</a>
                     </li>
                 </ul>
             </div>
         </div>
         <div class="col-lg-5 py-3 order-lg-1 text-center text-lg-left">
-            <i>Copyright@ 2021 All right reserved by <a class="stretched-link text-white" href="https://www.facebook.com/SantoKhan1999/">Santo Khan</a></i>
+            <small>Copyright@ 2021 All right reserved by
+                <a class="stretched-link text-white" href="https://www.facebook.com/SantoKhan1999/">Santo Khan</a>
+            </small>
         </div>
     </div>
 </div>
