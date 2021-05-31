@@ -12,12 +12,21 @@
             <div>
                 <h5 class="pb-4 text-center text-lg-left">SERVICES</h5>
                 <ul class="list-unstyled">
-                    <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>International Courier Export</a></li>
+
+                    <?php
+                    $items = ["International Courier Export", "Imports (Courier & Cargo)", "Customs Clearance", "24x7 hour Online Internet Tracking", "Instant Customer Query Response", "Pick up and delivery services"];
+                    for ($key = 0; $key < 6; $key++) {
+                        echo '<li class="pb-2">
+                                <a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>' . $items[$key] . '</a>
+                               </li>';
+                    }; ?>
+
+                    <!-- <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>International Courier Export</a></li>
                     <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>Imports (Courier & Cargo)</a></li>
                     <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>Customs Clearance</a></li>
                     <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>24x7 hour Online Internet Tracking</a></li>
                     <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>Instant Customer Query Response</a></li>
-                    <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>Pick up and delivery services</a></li>
+                    <li class="pb-2"><a class="text-light text-decoration-none" href="#"><i class="fas fa-dot-circle pr-1"></i>Pick up and delivery services</a></li> -->
                 </ul>
             </div>
         </div>
@@ -77,11 +86,9 @@
 
 
 <!-- JavaScript source -->
-<script src="./js/jquery-3.5.1.min.js"></script>
-<script src="./js/bootstrap.bundle.min.js"></script>
-<script src="./js/bootstrap.min.js"></script>
+<script src="./js/bootstrap.bundle.js.php"></script>
 <!-- DPDHL API -->
-<script src="./js/dpdhl.js"></script>
+<script src="./js/dpdhl.js.php"></script>
 </body>
 
 </html>
