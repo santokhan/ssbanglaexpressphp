@@ -10,13 +10,13 @@
                     <div id="my-nav" class="collapse navbar-collapse">
                         <ul class="navbar-nav">
                             <li class="nav-item active">
-                                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="about.php" tabindex="-1" aria-disabled="true">About Us</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="page/services/services.html" tabindex="-1" aria-disabled="true">Services</a>
+                                <a class="nav-link" href="service.php" tabindex="-1" aria-disabled="true">Services</a>
                             </li>
                             <li class="nav-item tools-btn">
                                 <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Tools<i class="fas fa-caret-down pl-1"></i></a>
@@ -24,14 +24,14 @@
                                     <ul class="list-unstyled">
                                         <li><a href="#">Company News</a></li>
                                         <hr>
-                                        <li><a href="page/tools/currency-converter/currency-converter.html">Currancy Converter</a></li>
+                                        <li><a href="currency_converter.php">Currancy Converter</a></li>
                                         <hr>
-                                        <li><a href="page/tools/valuemetric-weight/valumetric-weight.html">Valumetric Weight</a></li>
+                                        <li><a href="valumetric_weight.php">Valumetric Weight</a></li>
                                     </ul>
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="page/contact/contact.html" tabindex="-1" aria-disabled="true">Contact</a>
+                                <a class="nav-link" href="contact.php" tabindex="-1" aria-disabled="true">Contact</a>
                             </li>
                         </ul>
                         <ul class="navbar-nav ml-auto">
