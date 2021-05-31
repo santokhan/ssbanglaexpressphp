@@ -12,11 +12,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <!-- Favicon -->
     <link rel="icon" type="image/jpg" href="image/favicon.png">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <!-- Title -->
+    <?php require './css/style.php'; ?>
     <title>SS Bangla Express</title>
 </head>
 
