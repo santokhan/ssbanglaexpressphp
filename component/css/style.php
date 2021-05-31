@@ -202,7 +202,7 @@ body {
 
 
 .parallax {
-    background-image: url(image/slide\(1\).png);
+    background-image: url(component/image/slide-1.png);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
