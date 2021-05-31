@@ -2,7 +2,6 @@
 <html>
 
 <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -14,7 +13,6 @@
 </head>
 
 <body>
-
     <?php include "component/facebook_chat_plugin.php"; ?>
 
     <?php include "component/topbar.php"; ?>
