@@ -2,7 +2,7 @@
 
 <?php include "./component/slider.php"; ?>
 
-<?php include "component/card.php"; ?>
+<?php include "component/valumetric_weight.php"; ?>
 
 <?php include "component/parallex.php"; ?>
 
