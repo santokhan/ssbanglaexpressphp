@@ -44,6 +44,12 @@
             </div>
         </div>
     </div>
+
+    <div class="row pt-4 px-4">
+        <div class="col d-flex justify-content-start px-5 mx-5">
+            <?php include "component/facebook_share_button.php"; ?>
+        </div>
+    </div>
 </div>
 <script>
 var slideIndex = 1;
